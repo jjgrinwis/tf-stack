@@ -1,2 +1,1 @@
-required_providers {
-  }
+provider "hashicorp" "main" {}
