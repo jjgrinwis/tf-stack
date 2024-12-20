@@ -1,1 +1,0 @@
-created_hostnames = [ "prop-1-1.grinwis.com", "prop-1-2.grinwis.com", "prop-1-3.grinwis.com"]
